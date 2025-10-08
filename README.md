@@ -1,1 +1,1 @@
-# Here are js assignments
+# JS assignments are kept in seperate folder 
